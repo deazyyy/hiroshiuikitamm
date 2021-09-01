@@ -144,23 +144,23 @@ const Menu: React.FC<NavProps> = ({
                       melody farm
                     </a>
                   </li> */}
-                  <li className="navigation__item">
-                    <a href="#" className="navigation__link">
+                 <li className="navigation__item">
+                    <a href="https://www.coingecko.com/de/munze/kabosu" className="navigation__link">
                       coingecko
                     </a>
                   </li>
                   <li className="navigation__item">
-                    <a href="#" className="navigation__link">
+                    <a href="https://coinmarketcap.com/de/currencies/kabosu/" className="navigation__link">
                       coinmarketcap
                     </a>
                   </li>
                   <li className="navigation__item">
-                    <a href="#" className="navigation__link">
+                    <a href="https://kabosutoken.io" className="navigation__link">
                       roadmap
                     </a>
                   </li>
                   <li className="navigation__item">
-                    <a href="#" className="navigation__link">
+                    <a href="hiroshiaudit.pdf" className="navigation__link" target="_blank">
                       audited by hacken
                     </a>
                   </li>
